@@ -1,0 +1,26 @@
+{
+  "name": "react-native-pdf-reader",
+  "version": "1.0.0",
+  "description": "React-native android pdf reader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palmsnipe/react-native-pdf-reader.git"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "android",
+    "pdf"
+  ],
+  "author": "Cyril Moralès",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/palmsnipe/react-native-pdf-reader/issues"
+  },
+  "homepage": "https://github.com/palmsnipe/react-native-pdf-reader#readme",
+  "dependencies": {}
+}
